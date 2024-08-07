@@ -1,4 +1,4 @@
-# APP-based-calculator-for-assessing-fibrosis-in-different-intestinal-sub-regions
+# APP based calculator for assessing fibrosis in different intestinal sub-regions
 # Installation: 
 
 # Please double click on 'cal_network' to open the installation package and install it directly. Choose the appropriate installation path, then go to that path and find cal_network.exe. 
